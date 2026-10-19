@@ -1,0 +1,134 @@
+[
+  {
+    "id": "S001",
+    "name": "Aarav Menon",
+    "course": "B.Tech CSE",
+    "year": 3,
+    "skills": [
+      "Python",
+      "SQL",
+      "Git"
+    ]
+  },
+  {
+    "id": "S002",
+    "name": "Meera Iyer",
+    "course": "B.Tech CSE",
+    "year": 4,
+    "skills": [
+      "Azure",
+      "Linux",
+      "PowerShell"
+    ]
+  },
+  {
+    "id": "S003",
+    "name": "Kabir Shah",
+    "course": "B.Tech ECE",
+    "year": 3,
+    "skills": [
+      "C",
+      "Embedded Systems",
+      "Networking"
+    ]
+  },
+  {
+    "id": "S004",
+    "name": "Diya Nair",
+    "course": "BCA",
+    "year": 2,
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  },
+  {
+    "id": "S005",
+    "name": "Rohan Das",
+    "course": "B.Tech IT",
+    "year": 4,
+    "skills": [
+      "Django",
+      "PostgreSQL",
+      "Docker"
+    ]
+  },
+  {
+    "id": "S006",
+    "name": "Ananya Rao",
+    "course": "MBA Analytics",
+    "year": 1,
+    "skills": [
+      "Excel",
+      "Power BI",
+      "SQL"
+    ]
+  },
+  {
+    "id": "S007",
+    "name": "Vikram Joshi",
+    "course": "B.Tech CSE",
+    "year": 2,
+    "skills": [
+      "Java",
+      "Git",
+      "Linux"
+    ]
+  },
+  {
+    "id": "S008",
+    "name": "Isha Kapoor",
+    "course": "BCA",
+    "year": 3,
+    "skills": [
+      "Python",
+      "Testing",
+      "GitHub"
+    ]
+  },
+  {
+    "id": "S009",
+    "name": "Arjun Pillai",
+    "course": "B.Tech IT",
+    "year": 3,
+    "skills": [
+      "Networking",
+      "Linux",
+      "Azure"
+    ]
+  },
+  {
+    "id": "S010",
+    "name": "Sara Thomas",
+    "course": "B.Tech ECE",
+    "year": 4,
+    "skills": [
+      "MATLAB",
+      "Python",
+      "Networking"
+    ]
+  },
+  {
+    "id": "S011",
+    "name": "Neel Bhatt",
+    "course": "MBA Analytics",
+    "year": 2,
+    "skills": [
+      "Tableau",
+      "Python",
+      "Statistics"
+    ]
+  },
+  {
+    "id": "S012",
+    "name": "Tara Menon",
+    "course": "B.Tech CSE",
+    "year": 1,
+    "skills": [
+      "C",
+      "Git",
+      "Problem Solving"
+    ]
+  }
+]

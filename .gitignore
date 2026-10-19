@@ -1,0 +1,61 @@
+# ============================================================
+# .gitignore for Phase1-Azure-DevOps-Roadmap
+# Keeps clutter and SECRETS out of Git. See weeks/week-01-git-basics/08-gitignore.md
+# ============================================================
+
+# --- Operating-system clutter ---
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# --- Editor / IDE settings (local preferences) ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# --- Logs and temporary files ---
+*.log
+logs/
+*.tmp
+*.temp
+*.bak
+temp/
+tmp/
+
+# --- Local environment files (often contain secrets) ---
+.env
+.env.*
+*.local
+
+# --- Private keys and credential files: NEVER commit these ---
+*.pem
+*.key
+*.ppk
+*.pfx
+*.p12
+id_rsa
+id_rsa.*
+id_ed25519
+id_ed25519.*
+id_ecdsa
+id_ecdsa.*
+*.kdbx
+credentials
+credentials.json
+secrets.json
+*.publishsettings
+
+# Public keys (.pub) are safe to share, so they are NOT ignored
+!*.pub
+
+# --- Python / Node leftovers from optional experiments ---
+__pycache__/
+*.pyc
+node_modules/
+
+# --- Archives you create yourself ---
+*.zip
